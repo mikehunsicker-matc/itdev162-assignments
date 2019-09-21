@@ -1,0 +1,14 @@
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Application.deps.json
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Application.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Application.pdb
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Domain.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Persistence.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Domain.pdb
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.csprojAssemblyReference.cache
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.csproj.CoreCompileInputs.cache
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.AssemblyInfoInputs.cache
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.AssemblyInfo.cs
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.csproj.CopyComplete
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Application/obj/Debug/netstandard2.0/Application.pdb
