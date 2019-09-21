@@ -1,0 +1,12 @@
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/mike/Code/matc/itdev162/itdev162-assignments/mike-hunsicker/Persistence/obj/Debug/netstandard2.0/Persistence.pdb
