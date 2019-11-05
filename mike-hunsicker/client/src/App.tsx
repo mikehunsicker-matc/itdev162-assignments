@@ -1,6 +1,7 @@
 import React from 'react';
-import './App.css';
 import axios from 'axios';
+import PostList from './components/PostList/PostList';
+import './App.css';
 
 class App extends React.Component {
   state = {
@@ -19,6 +20,10 @@ class App extends React.Component {
     })
   }
 
+  viewPost(post) {
+    console.log(`view ${post.title}`);
+  }
+
   render() {
     const { posts } = this.state;
 
@@ -28,12 +33,7 @@ class App extends React.Component {
           BlogBox
         </header>
         <main className="App-content">
-          {posts.map((post: any) =>
-            <div key={post.id}>
-              <h1>{post.title}</h1>
-              <p>{post.body}</p>
-            </div>
-          )}
+          <PostList posts={posts} clickPost={this.viewPost} />
         </main>
       </div>
     );
