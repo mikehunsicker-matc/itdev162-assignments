@@ -1,15 +1,15 @@
-.item {
+.postListItem {
   padding: 10px;
   border: solid 1px transparent;
 }
 
-.item:hover {
+.postListItem:hover {
   background-color: #eeeeee;
   border-color: #aaaaaa;
   cursor: pointer;
 }
 
-.item p {
+.postListItem p {
   max-width: 500px;
   white-space: nowrap;
   overflow: hidden;
